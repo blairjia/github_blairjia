@@ -1,5 +1,5 @@
 ---
-title: "Not About"
+title: "aBOUT"
 image: profile.jpg
 about:
   template: jolla
